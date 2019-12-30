@@ -5,4 +5,4 @@ compile script : <br>
 <small>$ webpack</small>
 
 cara package : <br>
-<small>$ npm install </small>
+<sub>$ npm install </sub>
