@@ -1,7 +1,8 @@
-install webpack :
-$ npm install -g webpack
+install webpack : <br>
+<small>$ npm install -g webpack</small>
 
-compile script :
-$ webpack
+compile script : <br>
+<small>$ webpack</small>
 
-cara package : <br>$ npm install 
+cara package : <br>
+<small>$ npm install </small>
