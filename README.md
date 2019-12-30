@@ -1,2 +1,5 @@
-# webpack
-learn webpack
+install webpack :
+$ npm install -g webpack
+
+compile script :
+$ webpack
